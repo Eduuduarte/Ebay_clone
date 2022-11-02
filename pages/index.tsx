@@ -1,8 +1,10 @@
+import Header from "../components/Header";
 
 const Home = () => {
   return (
     <div className="">
-      <h1>Lets build ebay</h1>
+      <Header />
+      
     </div>
   )
 }
